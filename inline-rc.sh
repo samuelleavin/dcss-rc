@@ -5,8 +5,10 @@
 # Base RC file. Script looks for a line with # LUA_INCLUDE, placing the
 # inlined lua files after that line.
 rc_file="gammafunk_base.rc"
+
 # Dir with the lua files
 lua_dir=~/Games/dcss/dcss-rc
+
 # Final RC file
 out_file=~/Games/dcss/dcss-rc/gammafunk.rc
 
